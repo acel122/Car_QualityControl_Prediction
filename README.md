@@ -1,2 +1,2 @@
 # Car_QualityControl_Prediction
-quality control for car production using C++
+This project is a final assignment project that aims to implement digitalization in the quality control process of car production. C++ is used in this project as an implementation of object-oriented programming (OOP). In this code, the user will be asked to input the inspection score data for each field for quality control and the output is the average percentage of QC scores for each field. If the percentage obtained is below 2 percent, then the car is fit to be sold in the market.
